@@ -3,3 +3,7 @@ Hier finden sich zahlreiche Materialien für das Modul "Data Science". Die Ordnu
 
 
 Claudia Schütze / Januar 2024
+
+
+# Achtung: Aufgrund des Streiks bei der LVB findet die Veranstaltung am Freitag, 02.02. 2pm ONLINE statt! 
+**Zoom link --> Erste_infos.ipynb**
